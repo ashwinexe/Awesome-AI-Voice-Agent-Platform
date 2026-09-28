@@ -44,6 +44,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Retell AI](https://www.retellai.com/)** | Managed voice agent platform emphasizing low latency, natural conversations, and ease of deployment for inbound/outbound calling. | Pay-as-you-go (Base voice infra $0.07–$0.08/min, all-in cost ~$0.11–$0.31/min) | $10 one-time credit & 20 concurrent calls | $84M Valuation (~$60M ARR) |
 | **[PlayAI](https://play.ai/)** | Conversational AI platform with voice agent capabilities. | Subscription-based (Play.ht plans) and pay-as-you-go options | 12,500 characters/month (non-commercial, watermarked) | ~$30M Valuation |
 | **[Synthflow](https://synthflow.ai/)** | No-code / low-code voice AI automation platform for building and deploying agents. | Pay-as-you-go (Base voice engine $0.09/min, all-in cost ~$0.11–$0.24/min) | Free trial to build/test with limited test minutes | ~$15M Valuation |
+| **[Lokutor](https://lokutor.com/)** | Full voice-agent platform (STT + LLM + TTS); CPU-capable model (on-prem/edge deployable), GPU-hosted at scale. | Subscription, all-in per-minute pricing (Starter $19/mo, 1.9¢/min; Growth $99/mo, 1.65¢/min; Business $349/mo, 1.4¢/min) | 60 agent-minutes/month, 1 concurrent call, no card required | Early-stage (Series A) |
 
 ## 🔓 Open-Source Software
 
